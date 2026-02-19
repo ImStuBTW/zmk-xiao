@@ -17,4 +17,6 @@
 #     cmake-args: -DCONFIG_ZMK_STUDIO=y
 #     artifact-name: corne_left_with_studio
 #
----
+include:
+  - board: xiao_ble # Replace with the Xiao-compatible board you're using
+    shield: tester_xiao
