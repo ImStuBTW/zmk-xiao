@@ -18,5 +18,5 @@
 #     artifact-name: corne_left_with_studio
 #
 include:
-  - board: xiao_ble # Replace with the Xiao-compatible board you're using
-    shield: seeeduino_tester_xiao
+  - board: seeeduino_xiao_ble # Replace with the Xiao-compatible board you're using
+    shield: tester_xiao
