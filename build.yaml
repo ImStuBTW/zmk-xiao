@@ -19,5 +19,4 @@
 #
 include:
   - board: xiao_ble # Replace with the Xiao-compatible board you're using
-    shield: tester_xiao
-    snippet: zmk-usb-logging
+    shield: seeeduino_tester_xiao
